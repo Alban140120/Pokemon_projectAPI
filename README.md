@@ -18,7 +18,7 @@ Pour automatiser ce projet, j'ai mis en place un **job Databricks** qui exécute
 ### Détails du Job
 
 - **Source de données** : API [PokeAPI](https://pokeapi.co/)
-- **Transformation des données** : Les données sont nettoyées, formatées, et analysées dans un [notebook Databricks](./path/to/notebook).
+- **Transformation des données** : Les données sont nettoyées, formatées, et analysées dans un [notebook Databricks](Pokemon_Ranking.ipynb).
 - **Stockage** : Sauvegarde dans **Delta Lake**, permettant une gestion efficace des données.
 - **Automatisation** : Le **Job Databricks** est planifié, garantissant que les données soient toujours à jour.
 - **Cluster** : Utilisation du cluster `Pokemon Cluster` sur Databricks pour exécuter les tâches de calcul et de traitement des données.
