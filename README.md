@@ -1,6 +1,3 @@
-# Pokemon_projectAPI
-Création d'un cluster pour catégoriser les Pokemon via l'API PokeAPI, sur Databricks.
-
 # Pokémon Databricks Project
 
 Ce projet analyse et classe les Pokémon par puissance totale en utilisant l'API PokéAPI et Azure Databricks.
@@ -18,7 +15,3 @@ Ce projet analyse et classe les Pokémon par puissance totale en utilisant l'API
 1. Configurer un cluster Databricks avec les bibliothèques nécessaires (`requests`, `pandas`, `matplotlib`).
 2. Exécuter le notebook `Pokemon_Power_Ranking.py`.
 3. Visualiser les résultats dans Databricks ou exporter les visualisations.
-
-## Démonstrations
-
-![Bar Chart](chemin/vers/visualisation.png)
