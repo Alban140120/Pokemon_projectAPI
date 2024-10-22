@@ -13,5 +13,5 @@ Ce projet analyse et classe les Pokémon par puissance totale en utilisant l'API
 ## Utilisation
 
 1. Configurer un cluster Databricks avec les bibliothèques nécessaires (`requests`, `pandas`, `matplotlib`).
-2. Exécuter le notebook `Pokemon_Power_Ranking.py`.
+2. Exécuter le notebook `Pokemon_Ranking.py`.
 3. Visualiser les résultats dans Databricks ou exporter les visualisations.
