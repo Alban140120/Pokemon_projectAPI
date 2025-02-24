@@ -1,6 +1,6 @@
 # Pokémon Databricks Project
 
-Ce projet analyse et classe les Pokémon par puissance totale en utilisant l'API PokéAPI, **Delta Lake**, et **Azure Databricks**. Un pipeline ETL automatisé a également été mis en place pour extraire, transformer et charger les données quotidiennement.
+Ce projet analyse et classe les Pokémon par puissance totale en utilisant l'API PokéAPI, **Delta Lake**, et **Azure Databricks**. Une pipeline ETL automatisé a également été mis en place pour extraire, transformer et charger les données quotidiennement.
 
 ## Étapes du projet
 
